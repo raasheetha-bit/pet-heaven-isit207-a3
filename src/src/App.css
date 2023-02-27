@@ -32,13 +32,13 @@ button {
 }
 .primary-btn {
   padding: 10px 20px;
-  background-color: #eed150c5;
+  background-color: #f7a64b;
   color: white;
   font-weight: 400;
   transition: 0.5s;
 }
 .primary-btn:hover {
-  background-color: #000000;
+  background-color: #000;
   color: white;
 }
 .secondary-btn {

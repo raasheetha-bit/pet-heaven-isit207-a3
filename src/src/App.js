@@ -16,6 +16,7 @@ import Login from "./components/login/Login"
 import Register from "./components/login/Register"
 
 
+
 function App() {
   return (
     <>
@@ -33,6 +34,7 @@ function App() {
         </Routes>
         <Footer />
       </Router>
+    
     </>
   )
 }
